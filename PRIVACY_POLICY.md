@@ -142,9 +142,3 @@ If you are in the EU or UK, you have additional rights under GDPR:
 - **Legal Basis:** We process your data based on consent and legitimate interests
 - **Data Protection Officer:** hdunlap936@gmail.com
 - **Right to Lodge a Complaint:** You can file a complaint with your local data protection authority
-
----
-
-**READY FOR PUBLICATION**
-- Contact information updated
-- Next steps: Host at a publicly accessible URL and add URL to app.json
