@@ -224,10 +224,3 @@ We strive to make the App accessible to all users. If you encounter accessibilit
 
 You agree to comply with all applicable export and import laws when using the App.
 
----
-
-**READY FOR PUBLICATION**
-- Contact information updated
-- Jurisdiction: Georgia, USA
-- Arbitration: American Arbitration Association (AAA) rules
-- Next steps: Host at a publicly accessible URL and add URL to app.json
